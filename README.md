@@ -9,7 +9,7 @@ Jogo com a própria máquina com opção randômica com DART e FLUTTER
 <br>
 <br>
 ![image](https://github.com/TrinityDN/jokenpo/assets/111662820/38776e69-c3fe-4de2-9749-007c7b7338ca)
-
+<br>
 ![image](https://github.com/TrinityDN/jokenpo/assets/111662820/405ed8c7-ce82-4ef4-9bd6-617e93cea483)
 
 
